@@ -2,11 +2,11 @@
 Final project for Tripleten's Data Analyst course. 
 The data plots are done with plotly, so the notebook need to be run in order to see them. These are the libraries and versions used for this project:
 
-python 3.10.14
-pandas 2.2.1
-sqlite 3.41.2
-plotly 5.19.0
-scipy 1.13.1
+- python 3.10.14
+- pandas 2.2.1
+- sqlite 3.41.2
+- plotly 5.19.0
+- scipy 1.13.1
 
 
 The proposed Research Plan is as follows:
